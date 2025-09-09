@@ -14,7 +14,7 @@ print ("welcome" , freak)
 
 #what is debugging?
 
-#HOw do you debug the different types of errors?
+#How do you debug the different types of errors?
 
 #describe what each of the methods below does
 
