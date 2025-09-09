@@ -28,7 +28,7 @@ leftover = income - total_expenses
 
 #print the results 
 
-print("your rent is $ ", rent " and that is", round(rent_percent), "% of your income")
+print("your rent is $", rent, " and that is", round(rent_percent), "% of your income")
 print("your utilities are $", utilities, "and that is", round(utilities_percent), "% of your income")
 print("your groceries $", groceries, "and tht is", round (groceries_percent), "% of your income")
 print("your transportation is $ ", trasportation " and that is", round (transportation_percent), "% of your income")
