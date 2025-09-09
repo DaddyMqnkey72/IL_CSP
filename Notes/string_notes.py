@@ -10,7 +10,7 @@ freak = name + sentence
 print ("welcome" , freak)
 #why do we have strings?
 
-#how do strupid proofing and sanitazation relate to each other?
+#how do stupid proofing and sanitazation relate to each other?
 
 #what is debugging?
 
