@@ -31,5 +31,15 @@ else:
     #== question "are they equal?"
     #! not equal to
 #What are the 3 logical operators?
+    #and,or,not
+name=input("what is your name?")
+if name == "ms larose":
+    print("you are the teacher")
+elif name == "tia" or name == "ashley":
+    print("you are the TA")
+else:
+    print(f"hello {name}: you are a student")
 #What are logical operators for?
+    # to combine conditional statements
 #What does a nested conditional statement do?
+   #A nested conditional statement is a conditional statement that is inside another conditional statement.
