@@ -1,30 +1,8 @@
-#IL 7th time of 
+#IL 7th time of day
 
-time = int(input("hi what time is it amke sure to list time in military time"))
+import time 
 
-if
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
-elif
+epoch = time.time()
+read_time=time.ctime(epoch)
+
+if read_time >7 
