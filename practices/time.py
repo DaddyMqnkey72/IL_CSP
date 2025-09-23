@@ -1,8 +1,10 @@
 #IL 7th time of day
 
-import time 
+time = int(input("Hi, what time it its make sure to put in military time "))
 
-epoch = time.time()
-read_time=time.ctime(epoch)
-
-if read_time >7 
+if time <= 12:
+    print(f"Good morning")
+elif time <= 18:
+    print(f"Good afertnoon")
+else:
+    print(f"Good evening")
