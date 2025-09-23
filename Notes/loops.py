@@ -23,6 +23,8 @@ while True:
 #What are lists? 
    # a collection of items in a particular order
 #How do you make lists in python? 
-   #
+   # use square brackets []
 #How do you make for loops in python? 
+   # for item in list:
 #How do you make while loops in python?
+   # while condition:
