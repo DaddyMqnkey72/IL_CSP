@@ -30,7 +30,7 @@ int main (void){
 //How do you declare and initialize an integer variable named "age" with the value 25 in C?
     // int age =25
 //What is the difference between printf() and scanf() functions in C?
-    //
+    //f is used to diplay outputs while scan reads in inputs
 //How do you add comments in C? What are the two types of comments?
     // you use // to add a comment theres a // coment in C and # is python
 //What is the purpose of the #include <stdio.h> line at the beginning of a C program?
@@ -40,8 +40,8 @@ int main (void){
 //What is the difference between %d and %f format specifiers in printf()?
     //d will not print a number with a decimal and f will print one with decimals
 //How do you print a newline character in C?
-    //
+    // by using \n
 //What is the purpose of the & symbol when using scanf() to get user input?
-
+    // it allows it to actually scan the variables
 //How do you declare a constant in C? Provide an example.
     //marks a variable so it doiesn't change like const float pi = 3.1415926358
