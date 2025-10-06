@@ -11,7 +11,7 @@ int main (void){
     printf("what is your name:\n");
     fgets(name, sizeof(name), stdin);
 
-    printf("What is your grade percentage as a whole number: ");
+    printf("What is your grade percentage as a whole number: "); 
     scanf("%d", &grade);
     while (getchar() != '\n');
 
