@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 int main() {
-    float income, rent, utilities, groceries, transport, savings, remaining;
-    printf("Enter monthly income: $"); scanf("%f", &income);
-    printf("Rent/Mortgage: $"); scanf("%f", &rent);
+    float income,rent, utilities, groceries, transport, savings, remaining;
+    printf("income: $"); scanf("%f", &income);
+    printf("rent: $"); scanf("%f", &rent);
     printf("Utilities: $"); scanf("%f", &utilities);
     printf("Groceries: $"); scanf("%f", &groceries);
     printf("Transportation: $"); scanf("%f", &transport);
