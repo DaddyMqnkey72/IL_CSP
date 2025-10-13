@@ -32,20 +32,10 @@ int main(void){
 
 
 
-
-
-
-
-
-
-
-
-
-
 //What is a loop? 
     //a running sequence 
 //What are the two types of loops?
-    //
+    //for loops and why loops
 //What is iteration
     //one time through a loop
 //What are arrays? 
@@ -53,6 +43,6 @@ int main(void){
 //How do you make lists in C? 
     // using {}
 //How do you make for loops in C? 
-    //
+    //using thr for loop
 //How do you make while loops in C?
-    //
+    //using the why loops
