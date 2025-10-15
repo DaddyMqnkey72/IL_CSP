@@ -1,0 +1,17 @@
+//Il 7th update calculator
+#include <stdio.h>
+#include <math.h>
+
+int main(void){
+
+
+
+
+
+
+
+
+
+
+    return 0;
+}
